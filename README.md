@@ -85,3 +85,10 @@ python -m pytest tests -v
 ```
 
 Eight tests check row counts, supplier coverage, no negative sales or stock, deliveries not before orders, valid risk statuses, that Critical lines have cover below lead time, forecast completeness (20 products x 14 days) and a forecast error ceiling.
+
+## Limitations and next steps
+
+- Data is synthetic, and stock is a single snapshot rather than a live feed. A real control tower would read from an inventory system on a schedule.
+- Forecasts are per product across all stores. Per-store forecasts would sharpen reorder quantities.
+- Critical status compares days of cover with the supplier's average lead time and ignores delivery delays. Adding each supplier's typical delay would make it stricter.
+- SQLite is used for portability. The Airflow DAG and a PostgreSQL database are the natural next step for a deployed version.
