@@ -6,12 +6,14 @@ import streamlit as st
 
 st.set_page_config(page_title="Control Tower", layout="wide")
 
+
 @st.cache_data
 def load(query):
     conn = sqlite3.connect("data/processed/retail.db")
     df = pd.read_sql_query(query, conn)
     conn.close()
     return df
+
 
 risk = pd.read_csv("reports/stockout_risk.csv")
 supp = pd.read_csv("reports/supplier_performance.csv")
@@ -54,8 +56,8 @@ right.dataframe(
 # ---- Supplier performance ----
 st.subheader("Supplier performance")
 fig = px.bar(supp.sort_values("on_time_pct"), x="on_time_pct", y="supplier_name",
-             orientation="h", text="on_time_pct", labels={"on_time_pct": "On-time %",
-             "supplier_name": ""})
+             orientation="h", text="on_time_pct",
+             labels={"on_time_pct": "On-time %", "supplier_name": ""})
 st.plotly_chart(fig, use_container_width=True)
 
 # ---- Demand forecast ----
@@ -66,7 +68,7 @@ h["type"] = "Actual (last 60 days)"
 f = fc[fc.product_name == product].rename(columns={"forecast_units": "value"})
 f["type"] = "Forecast"
 line = pd.concat([h[["date", "value", "type"]], f[["date", "value", "type"]]])
-st.plotly_chart(px.line(line, x="date", y="value", color="type"), use_container_width=True)
-st.plotly_chart(px.line(line, x="date", y="value", color="type",
-                color_discrete_map={"Actual (last 60 days)": "#4e79a7", "Forecast": "#f28e2b"}),
-                use_container_width=True)
+st.plotly_chart(
+    px.line(line, x="date", y="value", color="type",
+            color_discrete_map={"Actual (last 60 days)": "#4e79a7", "Forecast": "#f28e2b"}),
+    use_container_width=True)
