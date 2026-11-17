@@ -1,0 +1,121 @@
+store_name,product_name,category,stock_on_hand,reorder_point,avg_daily_sales,days_of_cover,status
+Bengaluru Store,Grocery Item 16,Grocery,20,101,14.4,1.4,Critical
+Chennai Store,Beverages Item 17,Beverages,34,155,22.2,1.5,Critical
+Delhi Store,Household Item 4,Household,20,87,12.4,1.6,Critical
+Hyderabad Store,Personal Care Item 13,Personal Care,39,160,22.8,1.7,Critical
+Hyderabad Store,Beverages Item 12,Beverages,46,182,26.0,1.8,Critical
+Pune Store,Grocery Item 6,Grocery,24,73,10.4,2.3,Critical
+Hyderabad Store,Personal Care Item 8,Personal Care,100,250,35.7,2.8,Critical
+Mumbai Store,Snacks Item 15,Snacks,149,367,52.5,2.8,Critical
+Bengaluru Store,Household Item 14,Household,45,100,14.2,3.2,Critical
+Bengaluru Store,Personal Care Item 3,Personal Care,132,270,38.5,3.4,Critical
+Mumbai Store,Personal Care Item 18,Personal Care,73,132,18.9,3.9,Critical
+Delhi Store,Snacks Item 20,Snacks,124,222,31.8,3.9,Critical
+Hyderabad Store,Grocery Item 16,Grocery,45,77,11.0,4.1,Reorder now
+Chennai Store,Grocery Item 16,Grocery,42,68,9.6,4.4,Reorder now
+Mumbai Store,Beverages Item 12,Beverages,166,248,35.5,4.7,Critical
+Delhi Store,Grocery Item 1,Grocery,86,128,18.3,4.7,Reorder now
+Chennai Store,Beverages Item 2,Beverages,207,301,43.0,4.8,Critical
+Pune Store,Snacks Item 15,Snacks,189,267,38.1,5.0,Critical
+Bengaluru Store,Grocery Item 11,Grocery,217,281,40.2,5.4,Reorder now
+Chennai Store,Household Item 9,Household,65,84,12.0,5.4,Reorder now
+Mumbai Store,Beverages Item 7,Beverages,180,230,32.8,5.5,Critical
+Hyderabad Store,Grocery Item 6,Grocery,50,62,8.8,5.7,Reorder now
+Mumbai Store,Beverages Item 2,Beverages,261,320,45.7,5.7,Critical
+Pune Store,Personal Care Item 8,Personal Care,146,167,23.9,6.1,Critical
+Chennai Store,Snacks Item 5,Snacks,59,63,9.0,6.5,Critical
+Delhi Store,Grocery Item 11,Grocery,201,201,28.7,7.0,Reorder now
+Chennai Store,Personal Care Item 13,Personal Care,114,113,16.1,7.1,Critical
+Bengaluru Store,Beverages Item 12,Beverages,181,176,25.1,7.2,OK
+Bengaluru Store,Grocery Item 6,Grocery,110,100,14.3,7.7,OK
+Bengaluru Store,Household Item 9,Household,72,65,9.3,7.7,OK
+Hyderabad Store,Beverages Item 17,Beverages,216,192,27.4,7.9,OK
+Bengaluru Store,Household Item 19,Household,348,308,44.0,7.9,OK
+Delhi Store,Personal Care Item 13,Personal Care,206,176,25.2,8.2,OK
+Mumbai Store,Personal Care Item 3,Personal Care,273,228,32.5,8.4,OK
+Delhi Store,Beverages Item 12,Beverages,194,161,23.0,8.4,OK
+Mumbai Store,Household Item 4,Household,76,62,8.9,8.6,OK
+Mumbai Store,Snacks Item 5,Snacks,108,88,12.6,8.6,Critical
+Mumbai Store,Grocery Item 11,Grocery,364,286,40.8,8.9,OK
+Delhi Store,Beverages Item 17,Beverages,226,177,25.3,8.9,OK
+Delhi Store,Personal Care Item 18,Personal Care,222,166,23.7,9.4,OK
+Chennai Store,Grocery Item 11,Grocery,230,170,24.3,9.5,OK
+Mumbai Store,Household Item 19,Household,280,206,29.5,9.5,OK
+Delhi Store,Snacks Item 10,Snacks,86,63,9.0,9.6,Critical
+Pune Store,Household Item 4,Household,160,107,15.3,10.4,OK
+Hyderabad Store,Snacks Item 5,Snacks,140,93,13.3,10.6,OK
+Bengaluru Store,Household Item 4,Household,101,66,9.5,10.6,OK
+Bengaluru Store,Beverages Item 7,Beverages,210,139,19.8,10.6,OK
+Mumbai Store,Grocery Item 16,Grocery,173,114,16.4,10.6,OK
+Delhi Store,Grocery Item 6,Grocery,121,80,11.5,10.6,OK
+Chennai Store,Snacks Item 10,Snacks,142,86,12.4,11.5,OK
+Chennai Store,Snacks Item 20,Snacks,417,254,36.3,11.5,OK
+Pune Store,Beverages Item 7,Beverages,248,151,21.6,11.5,OK
+Mumbai Store,Beverages Item 17,Beverages,327,195,27.8,11.8,OK
+Mumbai Store,Snacks Item 20,Snacks,377,223,31.9,11.8,OK
+Bengaluru Store,Grocery Item 1,Grocery,301,170,24.4,12.4,OK
+Pune Store,Household Item 19,Household,395,224,32.0,12.4,OK
+Delhi Store,Personal Care Item 8,Personal Care,236,132,18.9,12.5,OK
+Pune Store,Snacks Item 20,Snacks,338,184,26.3,12.9,OK
+Mumbai Store,Household Item 9,Household,151,82,11.6,13.0,OK
+Delhi Store,Personal Care Item 3,Personal Care,382,191,27.3,14.0,OK
+Chennai Store,Beverages Item 12,Beverages,300,146,20.9,14.3,OK
+Pune Store,Snacks Item 10,Snacks,197,93,13.3,14.8,OK
+Pune Store,Household Item 14,Household,140,66,9.5,14.8,OK
+Chennai Store,Personal Care Item 3,Personal Care,424,196,27.9,15.2,OK
+Pune Store,Household Item 9,Household,191,88,12.6,15.2,OK
+Hyderabad Store,Snacks Item 10,Snacks,181,82,11.8,15.4,OK
+Delhi Store,Household Item 14,Household,207,93,13.3,15.6,OK
+Bengaluru Store,Personal Care Item 8,Personal Care,637,278,39.8,16.0,OK
+Hyderabad Store,Personal Care Item 18,Personal Care,287,123,17.6,16.3,OK
+Pune Store,Snacks Item 5,Snacks,251,108,15.4,16.3,OK
+Hyderabad Store,Snacks Item 15,Snacks,724,307,43.9,16.5,OK
+Delhi Store,Grocery Item 16,Grocery,247,105,15.0,16.5,OK
+Hyderabad Store,Household Item 14,Household,165,69,9.9,16.7,OK
+Mumbai Store,Personal Care Item 8,Personal Care,601,252,36.0,16.7,OK
+Chennai Store,Personal Care Item 18,Personal Care,270,111,15.9,17.0,OK
+Hyderabad Store,Snacks Item 20,Snacks,536,212,30.3,17.7,OK
+Pune Store,Grocery Item 16,Grocery,284,112,16.0,17.7,OK
+Chennai Store,Snacks Item 15,Snacks,763,298,42.6,17.9,OK
+Pune Store,Grocery Item 11,Grocery,615,239,34.2,18.0,OK
+Hyderabad Store,Personal Care Item 3,Personal Care,739,285,40.7,18.2,OK
+Mumbai Store,Household Item 14,Household,241,92,13.2,18.3,OK
+Delhi Store,Snacks Item 5,Snacks,253,96,13.8,18.4,OK
+Hyderabad Store,Household Item 9,Household,252,94,13.5,18.7,OK
+Hyderabad Store,Grocery Item 11,Grocery,542,203,29.0,18.7,OK
+Pune Store,Beverages Item 2,Beverages,937,340,48.6,19.3,OK
+Delhi Store,Beverages Item 7,Beverages,633,229,32.6,19.4,OK
+Mumbai Store,Grocery Item 6,Grocery,233,84,11.9,19.5,OK
+Mumbai Store,Snacks Item 10,Snacks,268,94,13.5,19.9,OK
+Hyderabad Store,Household Item 19,Household,747,262,37.4,20.0,OK
+Bengaluru Store,Snacks Item 10,Snacks,188,65,9.3,20.3,OK
+Chennai Store,Household Item 19,Household,929,316,45.1,20.6,OK
+Mumbai Store,Personal Care Item 13,Personal Care,484,162,23.1,20.9,OK
+Pune Store,Personal Care Item 18,Personal Care,428,144,20.5,20.9,OK
+Hyderabad Store,Beverages Item 7,Beverages,452,150,21.4,21.1,OK
+Mumbai Store,Grocery Item 1,Grocery,306,102,14.5,21.1,OK
+Delhi Store,Household Item 19,Household,493,163,23.3,21.2,OK
+Chennai Store,Personal Care Item 8,Personal Care,828,270,38.6,21.5,OK
+Delhi Store,Beverages Item 2,Beverages,1127,366,52.4,21.5,OK
+Bengaluru Store,Snacks Item 15,Snacks,798,259,37.0,21.6,OK
+Bengaluru Store,Snacks Item 5,Snacks,218,70,10.0,21.9,OK
+Hyderabad Store,Beverages Item 2,Beverages,1158,365,52.2,22.2,OK
+Delhi Store,Snacks Item 15,Snacks,1053,332,47.5,22.2,OK
+Pune Store,Beverages Item 17,Beverages,550,173,24.7,22.3,OK
+Bengaluru Store,Beverages Item 2,Beverages,1015,317,45.3,22.4,OK
+Delhi Store,Household Item 9,Household,233,72,10.3,22.6,OK
+Hyderabad Store,Grocery Item 1,Grocery,426,131,18.7,22.8,OK
+Chennai Store,Grocery Item 1,Grocery,328,100,14.4,22.8,OK
+Chennai Store,Grocery Item 6,Grocery,156,48,6.8,22.9,OK
+Chennai Store,Household Item 14,Household,286,87,12.5,22.9,OK
+Pune Store,Beverages Item 12,Beverages,903,275,39.3,23.0,OK
+Pune Store,Grocery Item 1,Grocery,578,175,25.0,23.1,OK
+Bengaluru Store,Personal Care Item 18,Personal Care,365,108,15.5,23.5,OK
+Chennai Store,Household Item 4,Household,258,77,11.0,23.5,OK
+Bengaluru Store,Snacks Item 20,Snacks,860,255,36.4,23.6,OK
+Chennai Store,Beverages Item 7,Beverages,453,134,19.2,23.6,OK
+Bengaluru Store,Personal Care Item 13,Personal Care,598,176,25.1,23.9,OK
+Bengaluru Store,Beverages Item 17,Beverages,678,196,27.9,24.3,OK
+Hyderabad Store,Household Item 4,Household,354,102,14.5,24.4,OK
+Pune Store,Personal Care Item 13,Personal Care,465,132,18.8,24.8,OK
+Pune Store,Personal Care Item 3,Personal Care,1005,283,40.4,24.9,OK

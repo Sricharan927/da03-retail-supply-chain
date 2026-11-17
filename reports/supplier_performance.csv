@@ -1,0 +1,6 @@
+supplier_name,orders,on_time_pct,avg_delay_days,avg_lead_time_days
+Chadha Group,117,75.2,0.99,11.0
+Pau PLC,120,79.2,0.82,8.8
+"Bava, Bora and Wason",119,92.4,0.36,6.4
+Dora-Rana,127,93.7,0.24,4.2
+Tripathi and Sons,117,94.0,0.22,5.2

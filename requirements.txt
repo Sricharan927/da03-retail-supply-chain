@@ -1,0 +1,8 @@
+﻿pandas
+numpy
+Faker
+prophet
+streamlit
+plotly
+sqlalchemy
+pytest

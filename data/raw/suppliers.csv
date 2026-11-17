@@ -1,0 +1,6 @@
+supplier_id,supplier_name,avg_lead_time_days,reliability
+1,Dora-Rana,4,0.95
+2,"Bava, Bora and Wason",6,0.88
+3,Pau PLC,8,0.8
+4,Tripathi and Sons,5,0.92
+5,Chadha Group,10,0.7

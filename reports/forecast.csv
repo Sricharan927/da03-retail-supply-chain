@@ -1,0 +1,281 @@
+product_id,product_name,date,forecast_units
+1,Grocery Item 1,2026-11-17,109
+1,Grocery Item 1,2026-11-18,108
+1,Grocery Item 1,2026-11-19,111
+1,Grocery Item 1,2026-11-20,109
+1,Grocery Item 1,2026-11-21,130
+1,Grocery Item 1,2026-11-22,129
+1,Grocery Item 1,2026-11-23,108
+1,Grocery Item 1,2026-11-24,109
+1,Grocery Item 1,2026-11-25,108
+1,Grocery Item 1,2026-11-26,111
+1,Grocery Item 1,2026-11-27,109
+1,Grocery Item 1,2026-11-28,130
+1,Grocery Item 1,2026-11-29,129
+1,Grocery Item 1,2026-11-30,107
+2,Beverages Item 2,2026-11-17,270
+2,Beverages Item 2,2026-11-18,269
+2,Beverages Item 2,2026-11-19,270
+2,Beverages Item 2,2026-11-20,269
+2,Beverages Item 2,2026-11-21,319
+2,Beverages Item 2,2026-11-22,318
+2,Beverages Item 2,2026-11-23,267
+2,Beverages Item 2,2026-11-24,268
+2,Beverages Item 2,2026-11-25,267
+2,Beverages Item 2,2026-11-26,268
+2,Beverages Item 2,2026-11-27,267
+2,Beverages Item 2,2026-11-28,317
+2,Beverages Item 2,2026-11-29,316
+2,Beverages Item 2,2026-11-30,265
+3,Personal Care Item 3,2026-11-17,194
+3,Personal Care Item 3,2026-11-18,196
+3,Personal Care Item 3,2026-11-19,195
+3,Personal Care Item 3,2026-11-20,195
+3,Personal Care Item 3,2026-11-21,229
+3,Personal Care Item 3,2026-11-22,231
+3,Personal Care Item 3,2026-11-23,193
+3,Personal Care Item 3,2026-11-24,194
+3,Personal Care Item 3,2026-11-25,197
+3,Personal Care Item 3,2026-11-26,195
+3,Personal Care Item 3,2026-11-27,196
+3,Personal Care Item 3,2026-11-28,229
+3,Personal Care Item 3,2026-11-29,231
+3,Personal Care Item 3,2026-11-30,193
+4,Household Item 4,2026-11-17,66
+4,Household Item 4,2026-11-18,67
+4,Household Item 4,2026-11-19,67
+4,Household Item 4,2026-11-20,67
+4,Household Item 4,2026-11-21,79
+4,Household Item 4,2026-11-22,79
+4,Household Item 4,2026-11-23,68
+4,Household Item 4,2026-11-24,65
+4,Household Item 4,2026-11-25,66
+4,Household Item 4,2026-11-26,66
+4,Household Item 4,2026-11-27,66
+4,Household Item 4,2026-11-28,78
+4,Household Item 4,2026-11-29,78
+4,Household Item 4,2026-11-30,67
+5,Snacks Item 5,2026-11-17,72
+5,Snacks Item 5,2026-11-18,72
+5,Snacks Item 5,2026-11-19,73
+5,Snacks Item 5,2026-11-20,71
+5,Snacks Item 5,2026-11-21,86
+5,Snacks Item 5,2026-11-22,84
+5,Snacks Item 5,2026-11-23,70
+5,Snacks Item 5,2026-11-24,70
+5,Snacks Item 5,2026-11-25,70
+5,Snacks Item 5,2026-11-26,71
+5,Snacks Item 5,2026-11-27,69
+5,Snacks Item 5,2026-11-28,84
+5,Snacks Item 5,2026-11-29,82
+5,Snacks Item 5,2026-11-30,69
+6,Grocery Item 6,2026-11-17,60
+6,Grocery Item 6,2026-11-18,59
+6,Grocery Item 6,2026-11-19,60
+6,Grocery Item 6,2026-11-20,61
+6,Grocery Item 6,2026-11-21,71
+6,Grocery Item 6,2026-11-22,72
+6,Grocery Item 6,2026-11-23,60
+6,Grocery Item 6,2026-11-24,61
+6,Grocery Item 6,2026-11-25,60
+6,Grocery Item 6,2026-11-26,61
+6,Grocery Item 6,2026-11-27,61
+6,Grocery Item 6,2026-11-28,72
+6,Grocery Item 6,2026-11-29,72
+6,Grocery Item 6,2026-11-30,60
+7,Beverages Item 7,2026-11-17,139
+7,Beverages Item 7,2026-11-18,140
+7,Beverages Item 7,2026-11-19,141
+7,Beverages Item 7,2026-11-20,139
+7,Beverages Item 7,2026-11-21,168
+7,Beverages Item 7,2026-11-22,164
+7,Beverages Item 7,2026-11-23,141
+7,Beverages Item 7,2026-11-24,138
+7,Beverages Item 7,2026-11-25,139
+7,Beverages Item 7,2026-11-26,140
+7,Beverages Item 7,2026-11-27,138
+7,Beverages Item 7,2026-11-28,168
+7,Beverages Item 7,2026-11-29,164
+7,Beverages Item 7,2026-11-30,140
+8,Personal Care Item 8,2026-11-17,179
+8,Personal Care Item 8,2026-11-18,177
+8,Personal Care Item 8,2026-11-19,180
+8,Personal Care Item 8,2026-11-20,176
+8,Personal Care Item 8,2026-11-21,211
+8,Personal Care Item 8,2026-11-22,212
+8,Personal Care Item 8,2026-11-23,177
+8,Personal Care Item 8,2026-11-24,176
+8,Personal Care Item 8,2026-11-25,175
+8,Personal Care Item 8,2026-11-26,178
+8,Personal Care Item 8,2026-11-27,174
+8,Personal Care Item 8,2026-11-28,209
+8,Personal Care Item 8,2026-11-29,211
+8,Personal Care Item 8,2026-11-30,176
+9,Household Item 9,2026-11-17,68
+9,Household Item 9,2026-11-18,70
+9,Household Item 9,2026-11-19,66
+9,Household Item 9,2026-11-20,68
+9,Household Item 9,2026-11-21,79
+9,Household Item 9,2026-11-22,79
+9,Household Item 9,2026-11-23,68
+9,Household Item 9,2026-11-24,68
+9,Household Item 9,2026-11-25,70
+9,Household Item 9,2026-11-26,66
+9,Household Item 9,2026-11-27,68
+9,Household Item 9,2026-11-28,78
+9,Household Item 9,2026-11-29,78
+9,Household Item 9,2026-11-30,67
+10,Snacks Item 10,2026-11-17,63
+10,Snacks Item 10,2026-11-18,64
+10,Snacks Item 10,2026-11-19,64
+10,Snacks Item 10,2026-11-20,63
+10,Snacks Item 10,2026-11-21,76
+10,Snacks Item 10,2026-11-22,76
+10,Snacks Item 10,2026-11-23,63
+10,Snacks Item 10,2026-11-24,62
+10,Snacks Item 10,2026-11-25,63
+10,Snacks Item 10,2026-11-26,63
+10,Snacks Item 10,2026-11-27,63
+10,Snacks Item 10,2026-11-28,75
+10,Snacks Item 10,2026-11-29,75
+10,Snacks Item 10,2026-11-30,62
+11,Grocery Item 11,2026-11-17,191
+11,Grocery Item 11,2026-11-18,188
+11,Grocery Item 11,2026-11-19,187
+11,Grocery Item 11,2026-11-20,189
+11,Grocery Item 11,2026-11-21,221
+11,Grocery Item 11,2026-11-22,220
+11,Grocery Item 11,2026-11-23,187
+11,Grocery Item 11,2026-11-24,187
+11,Grocery Item 11,2026-11-25,184
+11,Grocery Item 11,2026-11-26,182
+11,Grocery Item 11,2026-11-27,183
+11,Grocery Item 11,2026-11-28,216
+11,Grocery Item 11,2026-11-29,215
+11,Grocery Item 11,2026-11-30,181
+12,Beverages Item 12,2026-11-17,153
+12,Beverages Item 12,2026-11-18,156
+12,Beverages Item 12,2026-11-19,157
+12,Beverages Item 12,2026-11-20,155
+12,Beverages Item 12,2026-11-21,186
+12,Beverages Item 12,2026-11-22,187
+12,Beverages Item 12,2026-11-23,157
+12,Beverages Item 12,2026-11-24,153
+12,Beverages Item 12,2026-11-25,156
+12,Beverages Item 12,2026-11-26,157
+12,Beverages Item 12,2026-11-27,156
+12,Beverages Item 12,2026-11-28,186
+12,Beverages Item 12,2026-11-29,187
+12,Beverages Item 12,2026-11-30,158
+13,Personal Care Item 13,2026-11-17,124
+13,Personal Care Item 13,2026-11-18,125
+13,Personal Care Item 13,2026-11-19,126
+13,Personal Care Item 13,2026-11-20,124
+13,Personal Care Item 13,2026-11-21,147
+13,Personal Care Item 13,2026-11-22,147
+13,Personal Care Item 13,2026-11-23,123
+13,Personal Care Item 13,2026-11-24,122
+13,Personal Care Item 13,2026-11-25,122
+13,Personal Care Item 13,2026-11-26,124
+13,Personal Care Item 13,2026-11-27,121
+13,Personal Care Item 13,2026-11-28,144
+13,Personal Care Item 13,2026-11-29,144
+13,Personal Care Item 13,2026-11-30,120
+14,Household Item 14,2026-11-17,71
+14,Household Item 14,2026-11-18,70
+14,Household Item 14,2026-11-19,69
+14,Household Item 14,2026-11-20,71
+14,Household Item 14,2026-11-21,83
+14,Household Item 14,2026-11-22,82
+14,Household Item 14,2026-11-23,70
+14,Household Item 14,2026-11-24,70
+14,Household Item 14,2026-11-25,70
+14,Household Item 14,2026-11-26,69
+14,Household Item 14,2026-11-27,71
+14,Household Item 14,2026-11-28,83
+14,Household Item 14,2026-11-29,81
+14,Household Item 14,2026-11-30,69
+15,Snacks Item 15,2026-11-17,242
+15,Snacks Item 15,2026-11-18,246
+15,Snacks Item 15,2026-11-19,242
+15,Snacks Item 15,2026-11-20,240
+15,Snacks Item 15,2026-11-21,290
+15,Snacks Item 15,2026-11-22,288
+15,Snacks Item 15,2026-11-23,245
+15,Snacks Item 15,2026-11-24,241
+15,Snacks Item 15,2026-11-25,245
+15,Snacks Item 15,2026-11-26,241
+15,Snacks Item 15,2026-11-27,240
+15,Snacks Item 15,2026-11-28,289
+15,Snacks Item 15,2026-11-29,288
+15,Snacks Item 15,2026-11-30,245
+16,Grocery Item 16,2026-11-17,79
+16,Grocery Item 16,2026-11-18,80
+16,Grocery Item 16,2026-11-19,79
+16,Grocery Item 16,2026-11-20,80
+16,Grocery Item 16,2026-11-21,94
+16,Grocery Item 16,2026-11-22,94
+16,Grocery Item 16,2026-11-23,79
+16,Grocery Item 16,2026-11-24,78
+16,Grocery Item 16,2026-11-25,80
+16,Grocery Item 16,2026-11-26,78
+16,Grocery Item 16,2026-11-27,79
+16,Grocery Item 16,2026-11-28,93
+16,Grocery Item 16,2026-11-29,93
+16,Grocery Item 16,2026-11-30,78
+17,Beverages Item 17,2026-11-17,141
+17,Beverages Item 17,2026-11-18,143
+17,Beverages Item 17,2026-11-19,141
+17,Beverages Item 17,2026-11-20,142
+17,Beverages Item 17,2026-11-21,168
+17,Beverages Item 17,2026-11-22,167
+17,Beverages Item 17,2026-11-23,138
+17,Beverages Item 17,2026-11-24,138
+17,Beverages Item 17,2026-11-25,140
+17,Beverages Item 17,2026-11-26,138
+17,Beverages Item 17,2026-11-27,140
+17,Beverages Item 17,2026-11-28,167
+17,Beverages Item 17,2026-11-29,165
+17,Beverages Item 17,2026-11-30,137
+18,Personal Care Item 18,2026-11-17,107
+18,Personal Care Item 18,2026-11-18,108
+18,Personal Care Item 18,2026-11-19,109
+18,Personal Care Item 18,2026-11-20,107
+18,Personal Care Item 18,2026-11-21,129
+18,Personal Care Item 18,2026-11-22,131
+18,Personal Care Item 18,2026-11-23,110
+18,Personal Care Item 18,2026-11-24,110
+18,Personal Care Item 18,2026-11-25,110
+18,Personal Care Item 18,2026-11-26,111
+18,Personal Care Item 18,2026-11-27,108
+18,Personal Care Item 18,2026-11-28,130
+18,Personal Care Item 18,2026-11-29,132
+18,Personal Care Item 18,2026-11-30,110
+19,Household Item 19,2026-11-17,199
+19,Household Item 19,2026-11-18,196
+19,Household Item 19,2026-11-19,199
+19,Household Item 19,2026-11-20,197
+19,Household Item 19,2026-11-21,236
+19,Household Item 19,2026-11-22,238
+19,Household Item 19,2026-11-23,200
+19,Household Item 19,2026-11-24,198
+19,Household Item 19,2026-11-25,195
+19,Household Item 19,2026-11-26,198
+19,Household Item 19,2026-11-27,196
+19,Household Item 19,2026-11-28,235
+19,Household Item 19,2026-11-29,237
+19,Household Item 19,2026-11-30,199
+20,Snacks Item 20,2026-11-17,178
+20,Snacks Item 20,2026-11-18,177
+20,Snacks Item 20,2026-11-19,177
+20,Snacks Item 20,2026-11-20,178
+20,Snacks Item 20,2026-11-21,212
+20,Snacks Item 20,2026-11-22,212
+20,Snacks Item 20,2026-11-23,179
+20,Snacks Item 20,2026-11-24,180
+20,Snacks Item 20,2026-11-25,180
+20,Snacks Item 20,2026-11-26,180
+20,Snacks Item 20,2026-11-27,181
+20,Snacks Item 20,2026-11-28,216
+20,Snacks Item 20,2026-11-29,216
+20,Snacks Item 20,2026-11-30,183

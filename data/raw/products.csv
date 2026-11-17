@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_cost,supplier_id
+1,Grocery Item 1,Grocery,379,1
+2,Beverages Item 2,Beverages,257,2
+3,Personal Care Item 3,Personal Care,279,3
+4,Household Item 4,Household,360,4
+5,Snacks Item 5,Snacks,239,5
+6,Grocery Item 6,Grocery,314,1
+7,Beverages Item 7,Beverages,336,2
+8,Personal Care Item 8,Personal Care,105,3
+9,Household Item 9,Household,41,4
+10,Snacks Item 10,Snacks,134,5
+11,Grocery Item 11,Grocery,128,1
+12,Beverages Item 12,Beverages,351,2
+13,Personal Care Item 13,Personal Care,366,3
+14,Household Item 14,Household,22,4
+15,Snacks Item 15,Snacks,209,5
+16,Grocery Item 16,Grocery,332,1
+17,Beverages Item 17,Beverages,69,2
+18,Personal Care Item 18,Personal Care,322,3
+19,Household Item 19,Household,65,4
+20,Snacks Item 20,Snacks,197,5
